@@ -26,6 +26,9 @@ We've included a few helper functions to handle some of these concepts and we're
 ```typescript
 import {filterImageFromURL, deleteLocalFiles} from './util/util';
 ```
+## Submission Details
+- URL: http://udagram-jones-dev-dev.eu-west-2.elasticbeanstalk.com/
+- Github Repo: https://github.com/Ayoya22/image-filter-starter-code/
 
 ### Deploying your system
 
